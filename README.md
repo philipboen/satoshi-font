@@ -1,4 +1,4 @@
-## Self Hosting Font - Satoshi
+### Self Hosting Font - Satoshi
 This CSS file is dedicated to the font family "Satoshi", designed by Deni Anggara. More information about the font can be found at [Fontshare](https://www.fontshare.com/fonts/satoshi).
 
 The font family includes the following styles:
@@ -15,11 +15,11 @@ The font family includes the following styles:
 - Satoshi Black
 - Satoshi Black Italic
 
-### Variable Font
+## Variable Font
 Satoshi Variable is a variable font. You can control variable axes using the font-variation-settings property. For example, to set the weight to 900, you would use: <br />
 ```font-variation-settings: 'wght' 900.0;```
 
-### License
+## License
 This font is licensed under the terms stated in the CSS file. The font is © 2023 Indian Type Foundry.
 
 Please respect the rights of the font's creators and adhere to the licensing terms when using this font.
